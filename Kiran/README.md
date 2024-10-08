@@ -80,7 +80,7 @@ contributors!
 If there's an icon that's missing in this project, feel free to
 [contact me](https://krourke.org/contact) or _open an issue_.
 
-To make my life easier and to ensure that your requests are fullfilled faster,
+To make my life easier and to ensure that your requests are fulfilled faster,
 I expect a particular format for any new issues. Please
 [read the wiki](https://github.com/keeferrourke/la-capitaine-icon-theme/wiki/Submitting-Icon-Requests)
 before opening an issue.
