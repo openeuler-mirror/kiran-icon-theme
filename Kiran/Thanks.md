@@ -1,7 +1,7 @@
 ### Thanks!
 Thank you so much to the generous people who are helping to support this project. You guys inspire me to be my very best, and keep my development on going. Cheers all!
 
-#### Significant contibutors
+#### Significant contributors
 This is a list of people who have supported me with significant _code_ contributions. Cheers to them! :grin:
 
  * Andreas K. ([@DarkknightAK](https://github.com/darkknightak))
