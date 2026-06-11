@@ -8,3 +8,5 @@ find_package(PkgConfig REQUIRED)
 
 install(DIRECTORY ${PROJECT_SOURCE_DIR}/Kiran ${PROJECT_SOURCE_DIR}/Summer ${PROJECT_SOURCE_DIR}/Spring
         DESTINATION ${CMAKE_INSTALL_DATADIR}/icons)
+
+add_subdirectory(third_party)
